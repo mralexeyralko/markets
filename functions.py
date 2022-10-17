@@ -9,7 +9,7 @@ mydb=mysql.connector.connect(
 host='localhost',
 database='mydatabase',
 user='root',
-password='69C9O8$o',
+password='***',
 auth_plugin='mysql_native_password')
 
 if mydb.is_connected():
